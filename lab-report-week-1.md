@@ -111,7 +111,7 @@ Now that we have the two keys generated, we have to actually set them up the **s
 
 First, we need to make a **.ssh** directory on the server to store the **scp keys**. 
 
-To begin, we first **ssh** to the remote server (just like how we did in the **Remotely Connecting** part of this tutorial).  
+To begin, we first **ssh** to the remote server (just like how we did in the [**Remotely Connecting**](https://projectsbykyle.github.io/cse15l-lab-reports/lab-report-week-1.html#remotely-connecting) part of this tutorial).  
 ```
 ssh username@server
 ```
