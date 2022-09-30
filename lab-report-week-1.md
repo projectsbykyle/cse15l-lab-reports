@@ -4,6 +4,10 @@ For this class (and many others), we need to log into a class account on a remot
 
 This tutorial provides a basic walkthrough on how to set up a remote access system that we can use often. 
 
+## Objectives of this Tutorial
+- Learn how to use the **ssh** command to access remote servers.
+- Learn how to use the **scp** command to transfer files from client computers to remote servers. 
+
 ## Installing VSCode
 We first need to download [Visual Studio Code](https://code.visualstudio.com/).
 
