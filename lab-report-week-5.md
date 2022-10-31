@@ -1,4 +1,4 @@
-# Lab Report - Week 3 - Options for the grep command
+# Lab Report - Week 5 - Options for the grep command
 
 ## Main Objectives
 In this lab, we discuss the **grep** command's options and some examples of how we can use them in practice. 
