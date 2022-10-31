@@ -126,7 +126,7 @@ This time, after scanning all matching files, only one text file was flagged. Ev
 ## The -n option
 After getting all files that contain a specified string pattern, we sometimes need to find the line in which they are contained. One option is to read the text files ourselves to find them, but **grep** provides a much faster option for us. 
 
-The **-l** option searches all user-inputted files for a string pattern and returns the lines and line numbers on which they were found. 
+The **-n** option searches all user-inputted files for a string pattern and returns the lines and line numbers on which they were found. 
 
 The format is as follows:
 ```
@@ -242,3 +242,13 @@ plos/journ
 ```
 As we can see, unlike the first example for **grep -l**, this only outputs files that actually contain the expression, making it easier for us to read and understand. 
 
+## Conclusion
+In this lab report, we discussed some options that we can use with **grep** to make our workflow more efficient.
+
+The first option is **-l**. This identifies all files that contain a given string and prints their file paths. 
+
+Another option is **-n**. This identifies files that contain a given string and prints the lines on which it is located. 
+
+Lastly, the **-c** identifies all files that contain a given string and prints its amount of occurences.
+
+All three of these options will help us quickly find and search large amount of files with precise search terms and judge their relevancy to our task at hand. 
