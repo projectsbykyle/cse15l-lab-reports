@@ -6,7 +6,7 @@ Here, we attempt to insert a new text of code using less than thirty Vim command
 
 This is the unedited code. 
 
-![image](https://projectsbykyle.github.io/cse15l-lab-reports/uneditedfile.png)
+![image](https://projectsbykyle.github.io/cse15l-lab-reports/UneditedFile.png)
 Our aim is to insert a new line above **line 17**, which is:
 ```
 file[] paths = f.listFiles(); 

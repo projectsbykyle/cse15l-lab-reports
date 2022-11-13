@@ -5,4 +5,4 @@
 * [Lab Report Week 3](https://projectsbykyle.github.io/cse15l-lab-reports/lab-report-week-3.html)
 * [Lab Report Week 5](https://projectsbykyle.github.io/cse15l-lab-reports/lab-report-week-5.html)
 
-* [Lab Report Week 4](https://projectsbykyle.github.io/cse15l-lab-reports/lab-report-week-7.html)
+* [Lab Report Week 7](https://projectsbykyle.github.io/cse15l-lab-reports/lab-report-week-7.html)
